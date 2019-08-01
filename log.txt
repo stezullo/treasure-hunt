@@ -1,0 +1,42 @@
+Effettua l'accesso : stefano
+Thu Feb  2 19:17:44 2017
+
+Si disconnette : stefano
+Thu Feb  2 19:17:46 2017
+
+Effettua l'accesso : stefano
+Thu Feb  2 19:18:18 2017
+
+Si disconnette : stefano
+Thu Feb  2 19:18:19 2017
+
+Effettua l'accesso : gianluca
+Thu Feb  2 19:18:45 2017
+
+Si disconnette : gianluca
+Thu Feb  2 19:18:46 2017
+
+Effettua l'accesso : gianluca
+Thu Feb  2 19:18:53 2017
+
+Si disconnette : gianluca
+Thu Feb  2 19:18:54 2017
+
+Effettua l'accesso : gianluca
+Thu Feb  2 19:20:00 2017
+
+Si disconnette : gianluca
+Thu Feb  2 19:20:18 2017
+
+Effettua l'accesso : stefano
+Thu Feb  2 19:20:44 2017
+
+Effettua l'accesso : gianluca
+Thu Feb  2 19:20:56 2017
+
+Si disconnette : stefano
+Thu Feb  2 19:21:47 2017
+
+Si disconnette : gianluca
+Thu Feb  2 19:21:55 2017
+
